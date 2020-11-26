@@ -191,6 +191,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -366,7 +367,7 @@
 				INFOPLIST_FILE = BleDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.RFChina.BleDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.BKChina.BleDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "aa8a40ae-5123-4fcc-9730-f7a5634afc04";
 				PROVISIONING_PROFILE_SPECIFIER = SLWildcardDevelop;
@@ -383,7 +384,7 @@
 				INFOPLIST_FILE = BleDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.RFChina.BleDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.BKChina.BleDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "aa8a40ae-5123-4fcc-9730-f7a5634afc04";
 				PROVISIONING_PROFILE_SPECIFIER = SLWildcardDevelop;
